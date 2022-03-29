@@ -40,6 +40,6 @@ class MainController extends AbstractController
     }
     #[Route('/list', name:"listCur")]
     public function list(){
-        dd('hllo');
+        dd('rrrr');
     }
 }
